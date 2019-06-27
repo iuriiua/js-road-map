@@ -1,6 +1,6 @@
 # Tasks | Codewars
 
-## Initial level 
+## Initial level!!
 * Function 1 - hello world https://www.codewars.com/kata/function-1-hello-world/javascript
 * Remove First and Last Character https://www.codewars.com/kata/remove-first-and-last-character/javascript
 * https://www.codewars.com/kata/will-you-make-it/train/javascript
