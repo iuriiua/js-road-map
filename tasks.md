@@ -2,11 +2,11 @@
 
 ## Initial level!!
 * <s>Function 1 - hello world https://www.codewars.com/kata/function-1-hello-world/javascript</s>
-* Remove First and Last Character https://www.codewars.com/kata/remove-first-and-last-character/javascript
-* https://www.codewars.com/kata/will-you-make-it/train/javascript
-* https://www.codewars.com/kata/capitalization-and-mutability/train/javascript
-* https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript
-* If you can't sleep, just count sheeps!! https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep/javascript
+* <s>Remove First and Last Character https://www.codewars.com/kata/remove-first-and-last-character/javascript</s>
+* <s>https://www.codewars.com/kata/will-you-make-it/train/javascript</s>
+* <s>https://www.codewars.com/kata/capitalization-and-mutability/train/javascript</s>
+* <s>https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript</s>
+* <s>If you can't sleep, just count sheeps!! https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep/javascript</s>
 * Convert a string to an array https://www.codewars.com/kata/convert-a-string-to-an-array/javascript
 * Determine offspring sex based on genes XX and XY chromosomes https://www.codewars.com/kata/determine-offspring-sex-based-on-genes-xx-and-xy-chromosomes/javascript
 * Thinkful - Logic Drills: Traffic light https://www.codewars.com/kata/thinkful-logic-drills-traffic-light/javascript
